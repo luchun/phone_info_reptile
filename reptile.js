@@ -6,7 +6,7 @@ var querystring = require('querystring');
 var url = require('url');
 
 var rl = readline.createInterface({
-    input: fs.createReadStream('t.txt')
+    input: fs.createReadStream('p.txt')
 });
 rl.on('line',function (line) {
     console.log('Line from file:', line);
@@ -14,12 +14,12 @@ rl.on('line',function (line) {
         'type' : 33,
         'keyword' : line
     });
-    // var rurl = url.format({
-    //     protocol: 'http:',
-    //     hostname: 'shouji.tenaa.com.cn',
-    //     pathname: '/JavaScript/WebStation.aspx',
-    //     search:postData
-    // });
+    var rurl = url.format({
+        protocol: 'http:',
+        hostname: 'shouji.tenaa.com.cn',
+        pathname: '/JavaScript/WebStation.aspx',
+        search:postData
+    });
     var options = {
         protocol: 'http:',
         hostname: 'shouji.tenaa.com.cn',
@@ -30,18 +30,19 @@ rl.on('line',function (line) {
             'Content-Type': 'application/x-www-form-urlencoded'
         }
     };
-    // console.log(rurl);
-     var req = http.request(options, function (res) {
-         res.setEncoding('utf-8');
-         res.on('data', function (chunk) {
-             console.log(chunk)
-         })
-         res.on('end', function () {
-             console.log('end')
-         })
-     })
-    req.on('err',function (e) {
+    http.get(rurl, function (res) {
+        var html = '';
+        res.on('data', function (data) {
+            html += data
+        });
+        res.on('end', function () {
+            console.log(html)
+        })
+      res.on('error', function (e) {
+        console.log(e)
+      })
+    }).on('error',function (e) {
         console.log(e)
     })
-    req.end();
+
 });
