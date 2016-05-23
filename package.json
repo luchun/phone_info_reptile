@@ -4,10 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node reptile.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bufferhelper": "^0.2.1",
+    "cheerio": "^0.20.0",
+    "colors": "^1.1.2",
+    "iconv-lite": "^0.4.13"
+  }
 }
