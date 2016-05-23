@@ -18,10 +18,29 @@
    * git
    * node.js
    * npm
+
 ### 安装过程
  git 克隆项目
 
-      
+    git clone https://github.com/luchun/phone_info_reptile.git
+
+进入项目目录安装依赖
+
+    npm install
+
+执行
+
+    npm start
+
+## 使用
+
+通过npm 执行
+
+     npm start
+
+需要获取的手机型号列表是我从excel中复制列到txt中的，为 stdin 目录下的list.txt
+输出的结果在 stdout 目录下的 info.txt
+目前的输出结果并不好，还在改进中
 
 ## 错误
 
