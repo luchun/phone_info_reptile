@@ -59,6 +59,7 @@ function getinfo() {
     search:postData
   });
   http.get(rurl, function (res) {
+    console.log(rurl)
     var html = '';
     res.on('data', function (data) {
       html += data
