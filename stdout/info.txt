@@ -1,435 +1,117 @@
-
-iPhone 6
- : 未找到信息
-iPhone 6 Plus
- : 未找到信息
-iPhone 5s (Global)
- : 未找到信息
-iPhone 6s
- : 未找到信息
-iPhone 6s Plus
- : 未找到信息
-iPhone 4S
- : 未找到信息
-iPhone 5 (Global)
- : 未找到信息
-MI 4LTE
- : 未找到信息
-OPPO R7
- : 未找到信息
-OPPO R7sm
- : 未找到信息
-OPPO R7s
- : 未找到信息
-vivo X6D
- : 未找到信息
-iPad mini 2G (Wi-Fi)
- : 未找到信息
-OPPO R9tm
- : 未找到信息
-iPad mini 1G (Wi-Fi)
- : 未找到信息
-vivo X5Pro D
- : 未找到信息
-HM NOTE 1S
- : 未找到信息
-R7Plusm
- : 未找到信息
-iPad Air (Wi-Fi)
- : 未找到信息
-iPhone 5s (GSM)
- : 未找到信息
-vivo X6A
- : 未找到信息
-HM NOTE 1LTE
- : 未找到信息
-vivo X5Max+
- : 未找到信息
-MI NOTE LTE
- : 未找到信息
-vivo X5M
- : 未找到信息
-Redmi Note 2
- : 未找到信息
-vivo X6Plus D
- : 未找到信息
-MI 3
- : 未找到信息
-vivo X5S L
- : 未找到信息
-iPad Air 2 (Wi-Fi)
- : 未找到信息
-vivo Y27
- : 未找到信息
-R7Plus
- : 未找到信息
-R8207
- : 未找到信息
-Redmi Note 3
- : 未找到信息
-HUAWEI RIO-AL00
- : 未找到信息
-SM-A7000
- : 未找到信息
-iPad 4 (Wi-Fi)
- : 未找到信息
-Letv X500
- : 未找到信息
-m2 note
- : 未找到信息
-R8007
- : 未找到信息
-R7007
- : 未找到信息
-vivo X5V
- : 未找到信息
-vivo X5L
- : 未找到信息
-A31
- : 未找到信息
-MI 2S
- : 未找到信息
-HM 2A
- : 未找到信息
-N5117
- : 未找到信息
-m1 note
- : 未找到信息
-vivo Y23L
- : 未找到信息
-vivo X3L
- : 未找到信息
-OPPO A33
- : 未找到信息
-2014501
- : 未找到信息
-iPhone 4 (GSM)
- : 未找到信息
-HUAWEI NXT-AL10
- : 未找到信息
-HUAWEI MT7-TL10
- : 未找到信息
-vivo X6Plus A
- : 未找到信息
-SM-A5000
- : 未找到信息
-OPPO R7sPlus
- : 未找到信息
-HUAWEI MT7-CL00
- : 未找到信息
-Mi-4c
- : 未找到信息
-SM-A8000
- : 未找到信息
-R7c
- : 未找到信息
-Che1-CL10
- : 未找到信息
-H60-L01
- : 未找到信息
-HUAWEI P7-L07
- : 未找到信息
-X9007
- : 未找到信息
-iPhone 6
- : 未找到信息
-iPhone 6 Plus
- : 未找到信息
-iPhone 5s (Global)
- : 未找到信息
-iPhone 6s
- : 未找到信息
-iPhone 6s Plus
- : 未找到信息
-iPhone 4S
- : 未找到信息
-iPhone 5 (Global)
- : 未找到信息
-MI 4LTE
- : 未找到信息
-OPPO R7
- : 未找到信息
-OPPO R7sm
- : 未找到信息
-iPhone 6
- : 未找到信息
-iPhone 6 Plus
- : 未找到信息
-iPhone 5s (Global)
- : 未找到信息
-iPhone 6s
- : 未找到信息
-iPhone 6s Plus
- : 未找到信息
-iPhone 4S
- : 未找到信息
-iPhone 5 (Global)
- : 未找到信息
-MI 4LTE
- : 未找到信息
-OPPO R7
- : 未找到信息
-OPPO R7sm
- : 未找到信息
-OPPO R7s
- : 未找到信息
-vivo X6D
- : 未找到信息
-iPad mini 2G (Wi-Fi)
- : 未找到信息
-OPPO R9tm
- : 未找到信息
-iPad mini 1G (Wi-Fi)
- : 未找到信息
-vivo X5Pro D
- : 未找到信息
-HM NOTE 1S
- : 未找到信息
-R7Plusm
- : 未找到信息
-iPad Air (Wi-Fi)
- : 未找到信息
-iPhone 5s (GSM)
- : 未找到信息
-vivo X6A
- : 未找到信息
-HM NOTE 1LTE
- : 未找到信息
-vivo X5Max+
- : 未找到信息
-MI NOTE LTE
- : 未找到信息
-vivo X5M
- : 未找到信息
-Redmi Note 2
- : 未找到信息
-vivo X6Plus D
- : 未找到信息
-MI 3
- : 未找到信息
-vivo X5S L
- : 未找到信息
-iPad Air 2 (Wi-Fi)
- : 未找到信息
-R8207
- : 未找到信息
-Redmi Note 3
- : 未找到信息
-HUAWEI RIO-AL00
- : 未找到信息
-SM-A7000
- : 未找到信息
-iPad 4 (Wi-Fi)
- : 未找到信息
-Letv X500
- : 未找到信息
-m2 note
- : 未找到信息
-R8007
- : 未找到信息
-R7007
- : 未找到信息
-vivo X5V
- : 未找到信息
-vivo X5L
- : 未找到信息
-iPhone 6 : 未找到信息
-iPhone 6 Plus : 未找到信息
-iPhone 5s (Global) : 未找到信息
-iPhone 6s : 未找到信息
-iPhone 6s Plus : 未找到信息
-iPhone 4S : 未找到信息
-iPhone 5 (Global) : 未找到信息
-MI 4LTE : 未找到信息
-OPPO R7 : 1920×1080
-OPPO R7sm : 1920×1080
-OPPO R7s : 1920×1080
-vivo X6D : 1920×1080
-iPad mini 2G (Wi-Fi) : 未找到信息
-OPPO R9tm : 1080×1920
-iPad mini 1G (Wi-Fi) : 未找到信息
-vivo X5Pro D : 1920×1080
-HM NOTE 1S : 未找到信息
-R7Plusm : 未找到信息
-iPad Air (Wi-Fi) : 未找到信息
-iPhone 5s (GSM) : 未找到信息
-vivo X6A : 1920×1080
-HM NOTE 1LTE : 未找到信息
-vivo X5Max+ : 1920×1080
-MI NOTE LTE : 未找到信息
-vivo X5M : 1280×72
-Redmi Note 2 : 未找到信息
-vivo X6Plus D : 1920×1080
-MI 3 : 未找到信息
-vivo X5S L : 1280×720
-iPad Air 2 (Wi-Fi) : 未找到信息
-vivo Y27 : 1280×720
-R7Plus : 未找到信息
-R8207 : 720×1280
-Redmi Note 3 : 未找到信息
-HUAWEI RIO-AL00 : 1920×1080
-SM-A7000 : 1080×1920
-iPad 4 (Wi-Fi) : 未找到信息
-Letv X500 : 1920×1080
-m2 note : 未找到信息
-R8007 : 1280×720
-R7007 : 1280×720
-vivo X5V : 1280×720
-vivo X5L : 1280×720
-A31 : 未找到信息
-MI 2S : 未找到信息
-HM 2A : 未找到信息
-N5117 : 1280×720
-m1 note : 未找到信息
-vivo Y23L : 854×480
-vivo X3L : 1280×720
-OPPO A33 : 960×540
-2014501 : 1280×720
-iPhone 4 (GSM) : 未找到信息
-HUAWEI NXT-AL10 : 1080×1920
-HUAWEI MT7-TL10 : 1920×1080
-vivo X6Plus A : 1920×1080
-SM-A5000 : 1280×720
-OPPO R7sPlus : 未找到信息
-HUAWEI MT7-CL00 : 1920×1080
-Mi-4c : 未找到信息
-SM-A8000 : 1920×1080
-R7c : 1080×1920
-Che1-CL10 : 1280×720
-H60-L01 : 1920×1080
-HUAWEI P7-L07 : 1920×1080
-X9007 : 1080×1920
-vivo X710L : 1920×1080
-GT-N7100 : 480×800
-OPPO A53 : 720×1280
-MX5 : 480×800
-vivo Y37 : 720×1280
-R8107 : 1080×1920
-F103 : 未找到信息
-SM-G9250 : 2560×1440
-OPPO A53m : 729×1289
-OPPO R9m : 1080×1920
-HUAWEI MT7-TL00 : 1920×1080
-iPhone 4 (GSM Rev A) : 未找到信息
-SM-N9008V : 1920×1080
-SM-N9009 : 1920×1080
-HUAWEI P7-L09 : 1920×1080
-MX4 : 720×1280
-2014813 : 1280×720
-vivo Y35 : 1280×720
-vivo Xplay3S : 未找到信息
-OPPO A33m : 960×540
-vivo Y29L : 1280×720
-vivo Y51 : 960×540
-vivo Y33 : 1280×720
-MI 2SC : 未找到信息
-SM-N9006 : 1080×1920
-vivo X5Pro V : 1920×1080
-vivo Y35A : 1280×720
-OPPO R9 Plustm A : 1920×1080
-PLK-AL10 : 1920×1080
-GT-I9500 : 1920×1080
-vivo X3t : 1280×720
-m1 metal : 未找到信息
-ATH-AL00 : 1920×1080
-MI 3C : 未找到信息
-HUAWEI G7-TL00 : 1280×720
-SM-G9280 : 2560×1440
-HUAWEI TAG-AL00 : 720×1280
-R7005 : 1280×720
-HM NOTE 1TD : 未找到信息
-MI 3W : 未找到信息
-HUAWEI G750-T01 : 1280×720
-iPhone 5c (Global) : 未找到信息
-SM-G9008V : 1920×1080
-Che1-CL20 : 1280×720
-HUAWEI GRA-UL10 : 1080×1920
-ALE-TL00 : 1280×720
-vivo Y13L : 854×480
-R2017 : 960×540
-N5207 : 1080×1920
-vivo Y51A : 960×540
-SM-G9200 : 2560×1440
-HM 1S : 未找到信息
-HUAWEI GRA-TL00 : 1080×1920
-R7t : 1920×1080
-HUAWEI ALE-CL00 : 1280×720
-Che2-TL00M : 1280×720
-KIW-AL10 : 1920×1080
-vivo X5Max L : 1920×1080
-R6007 : 1280×720
-HM NOTE 1LTETD : 未找到信息
-CHM-TL00H : 1280×720
-GN9010 : 未找到信息
-MI NOTE Pro : 未找到信息
-ALE-UL00 : 1280×720
-MI 4C : 未找到信息
-m2 : 未找到信息
-vivo Xplay5A : 2560×1440
-Letv X501 : 1920×1080
-CHM-CL00 : 1280×720
-PE-TL10 : 1920×1080
-A31c : 480×854
-SM-G7106 : 1280×720
-H60-L03 : 1920×1080
-2014011 : 1280×720
-iPad mini 3G (Wi-Fi) : 未找到信息
-A51 : 未找到信息
-vivo Y927 : 1280×720
-3007 : 1280×720
-G621-TL00 : 1280×720
-GN9006 : 1920×1080
-MI 4W : 未找到信息
-R8205 : 1280×720
-SM-G5308W : 540×960
-CHM-TL00 : 1280×720
-C8817D : 1280×720
-SM-N9002 : 1080×1920
-vivo X6S A : 1920×1080
-1107 : 854×480
-vivo Y18L : 1280×720
-vivo X6L : 1920×1080
-vivo Y17T : 720×1280
-SM-N9008 : 1920×1080
-iPhone 5 (GSM) : 未找到信息
-vivo X3V : 1280×720
-iPad mini 4 : 未找到信息
-x600 : 未找到信息
-MX4 Pro : 未找到信息
-PE-CL00 : 1920×1080
-HUAWEI C199 : 1280×720
-6607 : 1920×1080
-MI PAD : 未找到信息
-SM-N9100 : 1440×2560
-Redmi 3 : 未找到信息
-PE-TL20 : 1920×1080
-SM-J5008 : 720×1280
-HM 1SC : 未找到信息
-SM-G7108V : 720×1280
-SM-A7009 : 1920×1080
-PE-TL00M : 1920×1080
-R831S : 854×480
-SCL-AL00 : 1280×720
-R829T : 960×540
-KIW-TL00 : 1920×1080
-CHE-TL00H : 1280×720
-PLK-TL01H : 1920×1080
-KIW-TL00H : 1920×1080
-vivo X5Max V : 1920×1080
-SM-J7008 : 720×1280
-M571C : 1920×1080
-N1T : 1080×1920
-HUAWEI RIO-TL00 : 1920×1080
-2014812 : 1280×720
-GT-I9300 : 1280×720
-vivo Y13 : 480×854
-Coolpad 8675 : 未找到信息
-M623C : 1280×720
-GT-I9508 : 1920×1080
-vivo Y28L : 960×540
-SCH-I959 : 1920×1080
-vivo X3S W : 1280×720
-A31t : 854×480
-Che2-TL00 : 1280×720
-SCL-TL00 : 1280×720
-GT-N7102 : 1280×720
+INSERT INTO #TEMP VALUES ('iPhone 6','APPLE iPhone 6','1334x750') /* http://search.zol.com.cn/s/all.php?kword=iPhone%206 */
+INSERT INTO #TEMP VALUES ('iPhone 6 Plus','APPLE iPhone 6 Plus','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=iPhone%206%20Plus */
+INSERT INTO #TEMP VALUES ('iPhone 5s (Global)','APPLE iPhone 5S','1136x640') /* http://search.zol.com.cn/s/all.php?kword=iPhone%205s%20%28Global%29 */
+INSERT INTO #TEMP VALUES ('iPhone 6s','APPLE iPhone 6S','1334x750') /* http://search.zol.com.cn/s/all.php?kword=iPhone%206s */
+INSERT INTO #TEMP VALUES ('iPhone 6s Plus','APPLE iPhone 6S Plus','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=iPhone%206s%20Plus */
+INSERT INTO #TEMP VALUES ('iPhone 4S','APPLE iPhone 4S','960x640') /* http://search.zol.com.cn/s/all.php?kword=iPhone%204S */
+INSERT INTO #TEMP VALUES ('iPhone 5 (Global)','APPLE iPhone 5','1136x640') /* http://search.zol.com.cn/s/all.php?kword=iPhone%205%20%28Global%29 */
+INSERT INTO #TEMP VALUES ('MI 4LTE','XIAOMI M4','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=MI%204 */
+INSERT INTO #TEMP VALUES ('OPPO R7','OPPO R7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=OPPO%20R7 */
+INSERT INTO #TEMP VALUES ('OPPO R7sm','OPPO R7s','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=R7sm */
+INSERT INTO #TEMP VALUES ('OPPO R7s','OPPO R7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=OPPO%20R7s */
+INSERT INTO #TEMP VALUES ('vivo X6D','vivo X6','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=X6D */
+INSERT INTO #TEMP VALUES ('iPad mini 2G (Wi-Fi)','APPLE iPad mini 2','2048x1536 ') /* http://search.zol.com.cn/s/all.php?kword=iPad%20mini%202G%20%28Wi-Fi%29 */
+INSERT INTO #TEMP VALUES ('OPPO R9tm','OPPO R9','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=OPPO%20R9tm */
+INSERT INTO #TEMP VALUES ('iPad mini 1G (Wi-Fi)','APPLE iPad mini','1024x768 ') /* http://search.zol.com.cn/s/all.php?kword=iPad%20mini%201G%20%28Wi-Fi%29 */
+INSERT INTO #TEMP VALUES ('vivo X5Pro D','vivo X5Pro','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=X5Pro%20D */
+INSERT INTO #TEMP VALUES ('HM NOTE 1S','XIAOMI HM 1S','1280x720') /* http://search.zol.com.cn/s/all.php?kword=%BA%EC%C3%D7%20NOTE%201S */
+INSERT INTO #TEMP VALUES ('R7Plusm','OPPO R7 Plus','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=R7Plusm */
+INSERT INTO #TEMP VALUES ('iPad Air (Wi-Fi)','APPLE iPad Air','2048x1536 ') /* http://search.zol.com.cn/s/all.php?kword=iPad%20Air%20%28Wi-Fi%29 */
+INSERT INTO #TEMP VALUES ('iPhone 5s (GSM)','APPLE iPhone 5S','1136x640') /* http://search.zol.com.cn/s/all.php?kword=iPhone%205s%20%28GSM%29 */
+INSERT INTO #TEMP VALUES ('vivo X6A','vivo X6','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=vivo%20X6A */
+INSERT INTO #TEMP VALUES ('HM NOTE 1LTE','XIAOMI HM Note','1280x720') /* http://search.zol.com.cn/s/all.php?kword=%BA%EC%C3%D7%20NOTE */
+INSERT INTO #TEMP VALUES ('vivo X5Max+','vivo X5Max+','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=vivo%20X5Max%2B */
+INSERT INTO #TEMP VALUES ('MI NOTE LTE','XIAOMI Note','2560x1440') /* http://search.zol.com.cn/s/all.php?kword=MI%20NOTE%20 */
+INSERT INTO #TEMP VALUES ('vivo X5M','vivo X5M','1280x720') /* http://search.zol.com.cn/s/all.php?kword=vivo%20X5M */
+INSERT INTO #TEMP VALUES ('Redmi Note 2','XIAOMI HM Note2','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%BA%EC%C3%D7%20Note%202 */
+INSERT INTO #TEMP VALUES ('vivo X6Plus D','vivo X6Plus','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=X6Plus%20D */
+INSERT INTO #TEMP VALUES ('MI 3','XIAOMI M3','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=MI%203 */
+INSERT INTO #TEMP VALUES ('vivo X5S L','vivo X5SL','1280x720') /* http://search.zol.com.cn/s/all.php?kword=vivo%20X5S%20L */
+INSERT INTO #TEMP VALUES ('iPad Air 2 (Wi-Fi)','APPLE iPad Air 2','2048x1536') /* http://detail.zol.com.cn/tablepc/index371503.shtml */
+INSERT INTO #TEMP VALUES ('vivo Y27','vivo Y27','1280x720') /* http://search.zol.com.cn/s/all.php?kword=Y27 */
+INSERT INTO #TEMP VALUES ('R7Plus','OPPO R7 Plus高配版','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=R7Plus */
+INSERT INTO #TEMP VALUES ('R8207','OPPO R1C','1280x720') /* http://search.zol.com.cn/s/all.php?kword=R8207 */
+INSERT INTO #TEMP VALUES ('Redmi Note 3','XIAOMI HM Note3','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%BA%EC%C3%D7%20Note%203 */
+INSERT INTO #TEMP VALUES ('HUAWEI RIO-AL00','HUAWEI Maimang 4','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%20RIO-AL00 */
+INSERT INTO #TEMP VALUES ('SM-A7000','SAMSUNG GALAXY A7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%C8%FD%D0%C7%20A7000 */
+INSERT INTO #TEMP VALUES ('iPad 4 (Wi-Fi)','APPLE iPad 4','2048x1536') /* http://detail.zol.com.cn/tablepc/index338912.shtml */
+INSERT INTO #TEMP VALUES ('Letv X500','未找到别名','1920×1080') /* http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=9f2Pil3hqunI8C94CB7eXyzS2VsQl3FbRDSYF0WgqsImFnsvejJfwA%3d%3d */
+INSERT INTO #TEMP VALUES ('m2 note','未找到别名','未找到分辨率信息') /* http://shouji.tenaa.com.cn/Mobile/mobileindex_MHSS.aspx?code=ppRNoBcXhFFd9S0oBaW6bw%3d%3d */
+INSERT INTO #TEMP VALUES ('R8007','OPPO R1S','1280x720') /* http://search.zol.com.cn/s/all.php?kword=R8007 */
+INSERT INTO #TEMP VALUES ('R7007','OPPO R3','1280x720') /* http://detail.zol.com.cn/cell_phone/index382372.shtml */
+INSERT INTO #TEMP VALUES ('vivo X5V','vivo X5V','1280x720') /* http://search.zol.com.cn/s/all.php?kword=vivo%20X5V */
+INSERT INTO #TEMP VALUES ('vivo X5L','vivo X5L','1280x720') /* http://search.zol.com.cn/s/all.php?kword=vivo%20X5L */
+INSERT INTO #TEMP VALUES ('A31','未找到别名','未找到分辨率信息') /* http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=IW22Uk6C7UNus4p%2fPdlnj9ybj3sRUz5J6yfScoN2bQhvCDXjxsnqsA%3d%3d */
+INSERT INTO #TEMP VALUES ('MI 2S','XIAOMI 2S','1280x720') /* http://search.zol.com.cn/s/all.php?kword=MI%202S */
+INSERT INTO #TEMP VALUES ('HM 2A','XIAOMI HM 2A','1280x720') /* http://search.zol.com.cn/s/all.php?kword=%BA%EC%C3%D7%202A */
+INSERT INTO #TEMP VALUES ('N5117','OPPO N1 Mini','1280x720') /* http://search.zol.com.cn/s/all.php?kword=N5117 */
+INSERT INTO #TEMP VALUES ('m1 note','MEIZU Meilan Note','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=m1%20note */
+INSERT INTO #TEMP VALUES ('vivo Y23L','vivo Y23L','854x480') /* http://search.zol.com.cn/s/all.php?kword=vivo%20Y23L */
+INSERT INTO #TEMP VALUES ('vivo X3L','vivo X3L','1280x720') /* http://search.zol.com.cn/s/all.php?kword=vivo%20X3L */
+INSERT INTO #TEMP VALUES ('OPPO A33','未找到别名','960×540') /* http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=UondHOG6P1whTv4d7nZAoGCgVC%2fCFbk9vntTYDaM3leERllfLmt%2blQ%3d%3d */
+INSERT INTO #TEMP VALUES ('2014501','未找到别名','1280×720') /* http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuBKqUCheMBLpHq08pVphF7LuLpXxRr1K3Y6ZWIzwfaakw%3d%3d */
+INSERT INTO #TEMP VALUES ('iPhone 4 (GSM)','APPLE iPhone 4','960x640') /* http://search.zol.com.cn/s/all.php?kword=iPhone%204%20%28GSM%29 */
+INSERT INTO #TEMP VALUES ('HUAWEI NXT-AL10','HUAWEI Mate 8','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%20NXT-AL10 */
+INSERT INTO #TEMP VALUES ('HUAWEI MT7-TL10','HUAWEI Mate 7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%20MT7-TL10 */
+INSERT INTO #TEMP VALUES ('vivo X6Plus A','vivo X6Plus','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=X6Plus%20A */
+INSERT INTO #TEMP VALUES ('SM-A5000','SAMSUNG GALAXY A5','1280x720') /* http://search.zol.com.cn/s/all.php?kword=SM-A5000 */
+INSERT INTO #TEMP VALUES ('OPPO R7sPlus','未找到别名','未找到分辨率信息') /* http://shouji.tenaa.com.cn/Mobile/mobileindex_MHSS.aspx?code=ppRNoBcXhFEHJweGzqjL5Bgw853zB3Xk */
+INSERT INTO #TEMP VALUES ('HUAWEI MT7-CL00','HUAWEI Mate 7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%20MT7-CL00 */
+INSERT INTO #TEMP VALUES ('Mi-4c','XIAOMI 4C','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=Mi-4c */
+INSERT INTO #TEMP VALUES ('SM-A8000','SAMSUNG GALAXY A8','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=SM-A8000 */
+INSERT INTO #TEMP VALUES ('R7c','未找到别名','1080×1920') /* http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=UondHOG6P1whTv4d7nZAoMt1WkeqroFPfCpDkDodnPiTKuiC4%2b7eSA%3d%3d */
+INSERT INTO #TEMP VALUES ('Che1-CL10','HONOR Changwan 4X','1280x720') /* http://detail.zol.com.cn/cell_phone/index391001.shtml */
+INSERT INTO #TEMP VALUES ('H60-L01','HONOR 6','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=H60-L01 */
+INSERT INTO #TEMP VALUES ('HUAWEI P7-L07','HUAWEI Ascend P7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%20P7-L07 */
+INSERT INTO #TEMP VALUES ('X9007','OPPO Find 7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=X9007 */
+INSERT INTO #TEMP VALUES ('vivo X710L','vivo Xshot','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=X710L */
+INSERT INTO #TEMP VALUES ('GT-N7100','SAMSUNG GALAXY Note II','1280x720') /* http://search.zol.com.cn/s/all.php?kword=GT-N7100 */
+INSERT INTO #TEMP VALUES ('OPPO A53','OPPO A53','1280x720') /* http://search.zol.com.cn/s/all.php?kword=A53 */
+INSERT INTO #TEMP VALUES ('MX5','MEIZU MX5','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=MX5 */
+INSERT INTO #TEMP VALUES ('vivo Y37','vivo Y37','1280x720') /* http://search.zol.com.cn/s/all.php?kword=vivo%20Y37 */
+INSERT INTO #TEMP VALUES ('R8107','OPPO R5','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=R8107 */
+INSERT INTO #TEMP VALUES ('F103','ZTE F103','220x176') /* http://search.zol.com.cn/s/all.php?kword=F103 */
+INSERT INTO #TEMP VALUES ('SM-G9250','SAMSUNG GALAXY S6 Edge','2560x1440') /* http://search.zol.com.cn/s/all.php?kword=SM-G9250 */
+INSERT INTO #TEMP VALUES ('OPPO A53m','OPPO A53','1280x720') /* http://search.zol.com.cn/s/all.php?kword=A53m */
+INSERT INTO #TEMP VALUES ('OPPO R9m','OPPO R9','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=OPPO%20R9m */
+INSERT INTO #TEMP VALUES ('HUAWEI MT7-TL00','HUAWEI Mate 7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=HUAWEI%20MT7-TL00 */
+INSERT INTO #TEMP VALUES ('iPhone 4 (GSM Rev A)','APPLE iPhone 4','960x640') /* http://search.zol.com.cn/s/all.php?kword=iPhone%204%20%28GSM%20Rev%20A%29 */
+INSERT INTO #TEMP VALUES ('SM-N9008V','SAMSUNG GALAXY Note 3','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=SM-N9008V */
+INSERT INTO #TEMP VALUES ('SM-N9009','SAMSUNG GALAXY Note 3','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=SM-N9009 */
+INSERT INTO #TEMP VALUES ('HUAWEI P7-L09','HUAWEI Ascend P7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%20P7-L09 */
+INSERT INTO #TEMP VALUES ('MX4','MEIZU MX4','1920x115') /* http://search.zol.com.cn/s/all.php?kword=MX4 */
+INSERT INTO #TEMP VALUES ('2014813','未找到别名','1280×720') /* http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuBKqUCheMBLpG5Y2vvkLSsOKPBH2xH58b6FcYSvmcIiCA%3d%3d */
+INSERT INTO #TEMP VALUES ('vivo Y35','vivo Y35L','1280x720') /* http://search.zol.com.cn/s/all.php?kword=Y35 */
+INSERT INTO #TEMP VALUES ('vivo Xplay3S','vivo Xplay3S','2560x1440') /* http://search.zol.com.cn/s/all.php?kword=vivo%20Xplay3S */
+INSERT INTO #TEMP VALUES ('OPPO A33m','未找到别名','960×540') /* http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=UondHOG6P1whTv4d7nZAoF95q7L5%2fH%2bjqWs3PGoNuJSkJSo1zdtbYg%3d%3d */
+INSERT INTO #TEMP VALUES ('vivo Y29L','vivo Y29L','1280x720') /* http://search.zol.com.cn/s/all.php?kword=vivo%20Y29L */
+INSERT INTO #TEMP VALUES ('vivo Y51','vivo Y51A','960x540') /* http://search.zol.com.cn/s/all.php?kword=Y51 */
+INSERT INTO #TEMP VALUES ('vivo Y33','vivo Y33','1280x720') /* http://search.zol.com.cn/s/all.php?kword=vivo%20Y33 */
+INSERT INTO #TEMP VALUES ('MI 2SC','XIAOMI 2S','1280x720') /* http://search.zol.com.cn/s/all.php?kword=MI%202SC */
+INSERT INTO #TEMP VALUES ('SM-N9006','SAMSUNG GALAXY Note 3','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=SM-N9006 */
+INSERT INTO #TEMP VALUES ('vivo X5Pro V','vivo X5Pro V','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=vivo%20X5Pro%20V */
+INSERT INTO #TEMP VALUES ('vivo Y35A','vivo Y35L','1280x720') /* http://search.zol.com.cn/s/all.php?kword=Y35A */
+INSERT INTO #TEMP VALUES ('OPPO R9 Plustm A','OPPO R9 Plus','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=OPPO%20R9%20Plustm%20A */
+INSERT INTO #TEMP VALUES ('PLK-AL10','HONOR 7','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=PLK-AL10 */
+INSERT INTO #TEMP VALUES ('GT-I9500','SAMSUNG GALAXY S4','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=GT-I9500 */
+INSERT INTO #TEMP VALUES ('vivo X3t','vivo X3t','1280x720') /* http://search.zol.com.cn/s/all.php?kword=vivo%20X3t */
+INSERT INTO #TEMP VALUES ('m1 metal','未找到别名','未找到分辨率信息') /* http://shouji.tenaa.com.cn/Mobile/mobileindex_MHSS.aspx?code=ppRNoBcXhFF%2bYsCqqE45k1R7dgbaVKjh */
+INSERT INTO #TEMP VALUES ('ATH-AL00','HONOR 7i','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=ATH-AL00 */
+INSERT INTO #TEMP VALUES ('MI 3C','XIAOMI M3','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=MI%203C */
+INSERT INTO #TEMP VALUES ('HUAWEI G7-TL00','HUAWEI Ascend G7','1280x720') /* http://search.zol.com.cn/s/all.php?kword=%20G7-TL00 */
+INSERT INTO #TEMP VALUES ('SM-G9280','SAMSUNG GALAXY S6 Edge+','2560x1440') /* http://search.zol.com.cn/s/all.php?kword=SM-G9280 */
+INSERT INTO #TEMP VALUES ('HUAWEI TAG-AL00','HUAWEI 畅享5S','1280x720') /* http://search.zol.com.cn/s/all.php?kword=%20TAG-AL00 */
+INSERT INTO #TEMP VALUES ('R7005','OPPO R3','1280x720') /* http://search.zol.com.cn/s/all.php?kword=R7005 */
+INSERT INTO #TEMP VALUES ('HM NOTE 1TD','SAMSUNG GALAXY Note','1280x800') /* http://search.zol.com.cn/s/all.php?kword=%BA%EC%C3%D7%20NOTE%201TD */
+INSERT INTO #TEMP VALUES ('MI 3W','XIAOMI M3','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=MI%203W */
+INSERT INTO #TEMP VALUES ('HUAWEI G750-T01','HONOR 3X','1280x720') /* http://search.zol.com.cn/s/all.php?kword=%20G750-T01 */
+INSERT INTO #TEMP VALUES ('iPhone 5c (Global)','APPLE iPhone 5C','1136x640') /* http://search.zol.com.cn/s/all.php?kword=iPhone%205c%20%28Global%29 */
+INSERT INTO #TEMP VALUES ('SM-G9008V','SAMSUNG GALAXY S5','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=SM-G9008V */
+INSERT INTO #TEMP VALUES ('Che1-CL20','HONOR Changwan 4X','1280x720') /* http://detail.zol.com.cn/cell_phone/index390519.shtml */
+INSERT INTO #TEMP VALUES ('HUAWEI GRA-UL10','HUAWEI P8','1920x1080') /* http://search.zol.com.cn/s/all.php?kword=%20GRA-UL10 */
+INSERT INTO #TEMP VALUES ('ALE-TL00','HUAWEI P8 Lite','1280x720') /* http://detail.zol.com.cn/cell_phone/index398699.shtml */
+INSERT INTO #TEMP VALUES ('vivo Y13L','vivo Y13','854x480') /* http://search.zol.com.cn/s/all.php?kword=vivo%20Y13L */
+INSERT INTO #TEMP VALUES ('R2017','OPPO R2017','960x540') /* http://search.zol.com.cn/s/all.php?kword=R2017 */
+INSERT INTO #TEMP VALUES ('N5207','OPPO N3','1920x1080') /* http://detail.zol.com.cn/cell_phone/index388575.shtml */
+INSERT INTO #TEMP VALUES ('vivo Y51A','vivo Y51A','960x540') /* http://search.zol.com.cn/s/all.php?kword=Y51A */
+INSERT INTO #TEMP VALUES ('SM-G9200','SAMSUNG GALAXY S6','2560x1440') /* http://search.zol.com.cn/s/all.php?kword=SM-G9200 */
