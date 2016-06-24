@@ -6,7 +6,6 @@ var path = require('path');
 var http= require('http');
 var querystring = require('querystring');
 var url = require('url');
-//var request = require('request');
 //用于将获取到的页面进行转码
 var iconv = require('iconv-lite');
 var BufferHelper = require('bufferhelper');
@@ -16,12 +15,23 @@ var cheerio = require('cheerio');
 
 //用于优化console颜色
 var colors = require('colors');
+var reader;
+//是否是全部
+var processArgs = process.env.npm_config_all;
+if(processArgs){
+  reader = new flr.FileLineReader("./stdin/list.txt");
+}else {
+  reader = new flr.FileLineReader("./stdin/400.txt");
+}
 
 var   flr = require("./FileLineReader");
 
-var reader = new flr.FileLineReader("./stdin/400.txt");
 //todo 判断路径新建或者添加，可以接收指定的文件名
 var outputFile = './stdout/info.txt'; // 输出信息将写入的文件
+fs.writeFile(outputFile, '', function(){
+  getinfo();
+});
+
 var statistics = { //统计分析
   count : 0, //统计数量
   noResult : 0, //统计无结果的手机
@@ -43,8 +53,6 @@ function getinfo(second, sourcename) {
     console.log(('结束于 ' + ( new Date( Date.now()))).rainbow);
     console.log(statistics.noResult + '个查询无结果');
     console.log(statistics.hasResult + '个查询有结果');
-    console.log(statistics.fromZol + '个查询数据完整');
-    console.log(statistics.fromTenaa + '个查询数据只有分辨率缺少别名');
     return false;
   }
 
@@ -454,5 +462,4 @@ function encodeURIComponent_GBK(str) {
   }
   return a.join('');
 }
-//开始
-getinfo();
+
