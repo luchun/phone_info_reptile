@@ -13,6 +13,8 @@ var BufferHelper = require('bufferhelper');
 //用于解析dom结构
 var cheerio = require('cheerio');
 
+var   flr = require("./FileLineReader");
+
 //用于优化console颜色
 var colors = require('colors');
 var reader;
@@ -24,7 +26,6 @@ if(processArgs){
   reader = new flr.FileLineReader("./stdin/400.txt");
 }
 
-var   flr = require("./FileLineReader");
 
 //todo 判断路径新建或者添加，可以接收指定的文件名
 var outputFile = './stdout/info.txt'; // 输出信息将写入的文件
